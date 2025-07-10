@@ -1,6 +1,8 @@
-streamlit==1.35.0
-tensorflow-cpu==2.11.0
-numpy
-pillow
-plotly
-requests
+streamlit==1.33.0
+tensorflow==2.13.0
+numpy==1.23.5
+pillow==9.5.0
+plotly==5.19.0
+pandas==1.5.3
+requests==2.31.0
+scikit-learn==1.2.2
